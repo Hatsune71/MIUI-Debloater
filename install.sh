@@ -22,7 +22,6 @@ REPLACE="
 /system/app/facebook-appmanager
 /system/app/FidoAuthen
 /system/app/FidoClient
-/system/app/FileExplorerGlobal
 /system/app/GooglePrintRecommendationService
 /system/app/Health
 /system/app/HybridAccessory
@@ -76,7 +75,6 @@ REPLACE="
 /system/priv-app/MiuiBrowserGlobal
 /system/priv-app/MiuiGallery
 /system/priv-app/MiuiMusicGlobal
-/system/priv-app/MiuiScanner
 /system/priv-app/ONS
 /system/priv-app/ProxyHandler
 /system/priv-app/SoundRecorder
@@ -84,7 +82,6 @@ REPLACE="
 /system/priv-app/Tag
 /system/priv-app/UserDictionaryProvider
 /system/priv-app/YellowPage
-/system/priv-app/Weather
 /system/priv-app/facebook-installer
 /system/priv-app/facebook-services
 /system/product/app/Chrome
@@ -117,6 +114,9 @@ REPLACE="
 /vendor/data/app/Videos
 /vendor/data/app/wps_lite
 /vendor/data/app/XMRemoteController
+/vendor/data/app/CloudSim
+/vendor/data/app/Health
+/vendor/data/app/SmartHome
 
 "
 
