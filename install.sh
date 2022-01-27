@@ -5,7 +5,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "   *************************"
-  ui_print "      MIUI DEBLOATER"
+  ui_print "      MIUI 12.5 Ginkgo CN DEBLOATER"
   ui_print "   *************************"
 }
 
@@ -41,6 +41,7 @@ REPLACE="
 /system/app/MiuiCompass
 /system/app/MiuiDaemon
 /system/app/MiuiVideoPlayer
+/system/priv-app/MiuiVideo
 /system/app/MiuiScreenRecorder
 /system/app/MSA-Global
 /system/app/Netflix_activation
@@ -112,11 +113,40 @@ REPLACE="
 /vendor/data/app/Music2
 /vendor/data/app/Photos
 /vendor/data/app/Videos
-/vendor/data/app/wps_lite
+/vendor/data-app/wps_lite
 /vendor/data/app/XMRemoteController
-/vendor/data/app/CloudSim
-/vendor/data/app/Health
-/vendor/data/app/SmartHome
+/vendor/data-app/CloudSim
+/vendor/data-app/Health
+/vendor/data-app/SmartHome
+/vendor/data-app
+/system/app/AiAsstVision
+/system/app/AnalyticsCore
+/system/app/Mipay
+/system/app/MiPlayClient
+/system/app/MiuiSuperMarket
+/system/app/NextPay
+/system/app/SogouInput
+/system/app/YouDaoEngine
+/system/app/MiCloudSync
+/system/app/MiLinkService2
+/system/app/MSA
+/system/app/Music
+/system/app/SoterService
+/system/app/XiaomiSimActivateService
+/system/app/XMCloudEngine
+/system/app/XMSFKeeper
+/system/data-app/Huanji
+/system/data-app/MiDrive
+/system/data-app/MiFinance
+/system/data-app/MiLiveAssistant
+/system/data-app/SmartTravel
+/system/data-app/XiaoAiSpeechEngine
+/system/data-app/Youpin
+/system/data-app/MiuiDriveMode
+/system/data-app/MiShop
+/system/data-app/FreeReader
+/system/data-app/MiMediaEditor
+/system/priv-app/YellowPage
 
 "
 
